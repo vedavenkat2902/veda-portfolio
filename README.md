@@ -5,7 +5,7 @@ education, experience, and contact information.
 
 ## 🌐 Live Portfolio
 
-Coming soon.
+https://veda-portfolio-zt4h.onrender.com/
 
 ## ✨ Highlights
 
